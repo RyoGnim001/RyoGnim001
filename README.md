@@ -22,7 +22,7 @@ Olá meu nome é Leonardo Oliveira Desenvolvedor de Software Full-Stack, entusia
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" />
 </p>
 
-**Framework  e Bibliotecas**
+**Frameworks  e Bibliotecas**
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="32" height="32" alt="Spring Logo" />
