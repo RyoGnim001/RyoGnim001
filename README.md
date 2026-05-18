@@ -20,6 +20,8 @@ Olá meu nome é Leonardo Oliveira Desenvolvedor de Software Full-Stack, entusia
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB" />
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/opensearch.svg" width="40" height="40" alt="OpenSearch" />
 </p>
 
 **Frameworks  e Bibliotecas**
