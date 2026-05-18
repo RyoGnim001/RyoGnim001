@@ -31,7 +31,7 @@ Olá meu nome é Leonardo Oliveira Desenvolvedor de Software Full-Stack, entusia
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="32" height="32" alt="FastAPI Logo" />
 </p>
 
-**Infraestrutura**
+**Infraestruturas**
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="32" height="32" alt="Docker Logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="32" height="32" alt="Nginx Logo" />
