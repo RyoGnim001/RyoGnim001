@@ -16,7 +16,7 @@ Olá meu nome é Leonardo Oliveira Desenvolvedor de Software Full-Stack, entusia
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
 </p>
 
-**Banco de Dados**
+**Banco de Dados:**
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" />
@@ -24,7 +24,7 @@ Olá meu nome é Leonardo Oliveira Desenvolvedor de Software Full-Stack, entusia
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/opensearch.svg" width="40" height="40" alt="OpenSearch" />
 </p>
 
-**Frameworks  e Bibliotecas**
+**Frameworks  e Bibliotecas:**
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="32" height="32" alt="Spring Logo" />
@@ -33,7 +33,7 @@ Olá meu nome é Leonardo Oliveira Desenvolvedor de Software Full-Stack, entusia
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="32" height="32" alt="FastAPI Logo" />
 </p>
 
-**Infraestruturas**
+**Infraestruturas:**
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="32" height="32" alt="Docker Logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="32" height="32" alt="Nginx Logo" />
